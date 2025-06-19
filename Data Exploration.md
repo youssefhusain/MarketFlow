@@ -4,6 +4,7 @@
 
 This comprehensive project analyzes **stock price time series data** to understand market behavior and identify patterns. The analysis focuses on examining price movements, dividend distributions, stock splits, and trading volume patterns over time.
 
+
 ---
 
 ## Data Analysis & Visualizations
