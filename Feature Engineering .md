@@ -9,7 +9,7 @@ This comprehensive project analyzes **stock price time series data** using advan
 ##  Feature Engineering & Advanced Analytics
 
 ### 1. **Time Series Decomposition Analysis**
-![Additive Decomposition](last_data.png)
+![Additive Decomposition](img/last_data.png)
 
 **Description:** Statistical decomposition of the Adjusted Close price into fundamental components:
 - **Original Series (Top):** Raw adjusted close prices showing the complete time series
@@ -26,7 +26,7 @@ This comprehensive project analyzes **stock price time series data** using advan
 ---
 
 ### 2. **Monthly Seasonality Patterns**
-![Average Price by Month](mon.png)
+![Average Price by Month](img/mon.png)
 
 **Description:** Analysis of seasonal price behavior across calendar months:
 - **Lowest Performance:** March shows the weakest average prices (~$51)
@@ -43,7 +43,7 @@ This comprehensive project analyzes **stock price time series data** using advan
 ---
 
 ### 3. **Long-Term Trend Analysis**
-![Overall Stock Trend with Trend Line](trand.png)
+![Overall Stock Trend with Trend Line](img/trand.png)
 
 **Description:** Comprehensive trend analysis spanning the entire dataset:
 - **Trend Line (Red):** Mathematical representation of long-term growth trajectory
@@ -60,7 +60,7 @@ This comprehensive project analyzes **stock price time series data** using advan
 ---
 
 ### 4. **Multi-Year Trend Comparison**
-![Yearly Trend Lines](trand%20in%20evry%20year.png)
+![Yearly Trend Lines](img/trand%20in%20evry%20year.png)
 
 **Description:** Individual trend analysis for each year reveals evolving market dynamics:
 - **Early Years (2007-2015):** Relatively flat individual trends with gradual improvement
@@ -77,7 +77,7 @@ This comprehensive project analyzes **stock price time series data** using advan
 ---
 
 ### 5. **Predictive Modeling & Forecasting**
-![Price Forecasting Model](profit.png)
+![Price Forecasting Model](img/profit.png)
 
 **Description:** Advanced forecasting model with confidence intervals:
 - **Historical Fit (Black):** Model accurately captures past price movements
